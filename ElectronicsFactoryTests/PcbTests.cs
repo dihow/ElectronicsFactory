@@ -16,7 +16,7 @@ namespace ElectronicsFactoryTests
                 description: "Тестовая плата для тестирования",
                 price: 1000.00m,
                 totalQuantity: 10,
-                manufactureDate: System.DateTime.Now,
+                manufactureDate: DateTime.Now,
                 length: 50.0m,
                 width: 30.0m,
                 layersCount: 2,
